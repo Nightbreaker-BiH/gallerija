@@ -218,7 +218,7 @@
  {
   "id": 32,
   "url": "https://night-breaker.com/wp-content/uploads/2015/12/owl.jpg",
-  "title": "owl",
+  "title": "Planetarna maglina Sova",
   "category": "Deep-sky",
   "date": "2015-12",
   "desc": ""
@@ -290,7 +290,7 @@
  {
   "id": 42,
   "url": "https://night-breaker.com/wp-content/uploads/2015/11/venera1.jpg",
-  "title": "venera1",
+  "title": "Venera",
   "category": "Planeti",
   "date": "2015-11",
   "desc": ""
@@ -424,14 +424,6 @@
   "desc": ""
  },
  {
-  "id": 61,
-  "url": "https://night-breaker.com/wp-content/uploads/2016/10/sun-withh-alpha-filter.jpg",
-  "title": "sun withh alpha filter",
-  "category": "Sunce",
-  "date": "2016-10",
-  "desc": ""
- },
- {
   "id": 62,
   "url": "https://night-breaker.com/wp-content/uploads/2016/10/stratrails.jpg",
   "title": "Startrails",
@@ -549,14 +541,6 @@
   "title": "Mjesec iznad Sarajeva",
   "category": "Mjesec",
   "date": "2015-11",
-  "desc": ""
- },
- {
-  "id": 82,
-  "url": "https://night-breaker.com/wp-content/uploads/2016/01/23708959323_86f4c2a7bf_k.jpg",
-  "title": "23708959323 86f4c2a7bf k",
-  "category": "Mjesec",
-  "date": "2016-01",
   "desc": ""
  },
  {
@@ -716,14 +700,6 @@
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/img_4315-1.jpg",
   "title": "Mačevanje po noći",
   "category": "Nightscape",
-  "date": "2020-08",
-  "desc": ""
- },
- {
-  "id": 114,
-  "url": "https://night-breaker.com/wp-content/uploads/2020/08/img_4360-1.jpg",
-  "title": "img 4360 1",
-  "category": "Mliječni put",
   "date": "2020-08",
   "desc": ""
  },
@@ -906,7 +882,7 @@
  {
   "id": 150,
   "url": "https://night-breaker.com/wp-content/uploads/2021/02/treska-panorama-2.jpg",
-  "title": "treska panorama 2",
+  "title": "Treskavica panorama",
   "category": "Nightscape",
   "date": "2021-02",
   "desc": ""
@@ -1496,14 +1472,6 @@
   "desc": ""
  },
  {
-  "id": 266,
-  "url": "https://night-breaker.com/wp-content/uploads/2021/07/sve2.jpg",
-  "title": "sve2",
-  "category": "Mliječni put",
-  "date": "2021-07",
-  "desc": ""
- },
- {
   "id": 267,
   "url": "https://night-breaker.com/wp-content/uploads/2021/07/wide.jpg",
   "title": "Stećci kod Lukomira",
@@ -1930,16 +1898,8 @@
  {
   "id": 373,
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/sve-skupa-flaten-jpeg.jpg",
-  "title": "Mliječni iznad Visoćice",
+  "title": "Mliječni iznad Visočice",
   "category": "Mliječni put",
-  "date": "2020-08",
-  "desc": ""
- },
- {
-  "id": 374,
-  "url": "https://night-breaker.com/wp-content/uploads/2020/08/sjetlo-i-stecci-jpeg.jpg",
-  "title": "sjetlo i stecci jpeg",
-  "category": "Nightscape",
   "date": "2020-08",
   "desc": ""
  },
