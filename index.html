@@ -90,9 +90,7 @@ body.admin .adminflag{display:block}
   <div class="right">
     <input id="search" placeholder="Pretraga…" oninput="render()">
     <select id="sort" onchange="render()">
-      <option value="date-desc">Najnovije</option>
-      <option value="date-asc">Najstarije</option>
-      <option value="cat">Po kategoriji</option>
+      <option value="cat" selected>Po kategoriji</option>
       <option value="title">Po nazivu</option>
     </select>
     <button class="btn gold admin-only" onclick="openAdd()">+ Dodaj sliku</button>
