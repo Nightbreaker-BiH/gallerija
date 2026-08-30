@@ -832,14 +832,6 @@
   "desc": ""
  },
  {
-  "id": 143,
-  "url": "https://night-breaker.com/wp-content/uploads/2021/01/img_4953-1.jpg",
-  "title": "Snijeg",
-  "category": "Nightscape",
-  "date": "2021-01",
-  "desc": ""
- },
- {
   "id": 144,
   "url": "https://night-breaker.com/wp-content/uploads/2021/02/sve-jpeg.jpg",
   "title": "Maglina Orion",
@@ -880,25 +872,9 @@
   "desc": ""
  },
  {
-  "id": 150,
-  "url": "https://night-breaker.com/wp-content/uploads/2021/02/treska-panorama-2.jpg",
-  "title": "Treskavica panorama",
-  "category": "Nightscape",
-  "date": "2021-02",
-  "desc": ""
- },
- {
   "id": 152,
   "url": "https://night-breaker.com/wp-content/uploads/2021/02/3.jpg",
   "title": "3",
-  "category": "Nightscape",
-  "date": "2021-02",
-  "desc": ""
- },
- {
-  "id": 153,
-  "url": "https://night-breaker.com/wp-content/uploads/2021/02/alnitak-alnilam-i-mintaka.jpg",
-  "title": "Tragovi zvijezda Alnitak, Alnilam i Mintaka",
   "category": "Nightscape",
   "date": "2021-02",
   "desc": ""
@@ -1954,7 +1930,7 @@
  {
   "id": 383,
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/skuap-sve-copy.jpg",
-  "title": "Kometa",
+  "title": "Kometa Atlas",
   "category": "Komete",
   "date": "2020-08",
   "desc": ""
@@ -1962,7 +1938,7 @@
  {
   "id": 384,
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/img_4632.jpg",
-  "title": "Hvatanje komete na Mojmilu",
+  "title": "Hvatanje komete Atlas na Mojmilu",
   "category": "Komete",
   "date": "2020-08",
   "desc": ""
