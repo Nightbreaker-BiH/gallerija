@@ -40,9 +40,9 @@ input#search{min-width:170px}
 .tile .badge{position:absolute;top:7px;right:7px;background:rgba(255,255,255,.9);color:var(--dim);font-size:.64rem;padding:2px 6px;border-radius:5px;border:1px solid var(--line)}
 .tile.newimg .badge{background:var(--gold);color:#fff;border-color:var(--gold)}
 .empty{padding:60px 20px;text-align:center;color:var(--dim)}
-.lb{position:fixed;inset:0;background:rgba(20,28,45,.92);z-index:100;display:none;align-items:flex-start;justify-content:center;flex-direction:column;padding:20px 20px 40px;overflow-y:auto;-webkit-overflow-scrolling:touch}
-.lb.on{display:flex}
-.lb .lbinner{margin:auto;display:flex;flex-direction:column;align-items:center;width:100%;max-width:100%}
+.lb{position:fixed;inset:0;background:rgba(20,28,45,.92);z-index:100;display:none;overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+.lb.on{display:block}
+.lb .lbinner{min-height:100vh;min-height:100dvh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:20px 20px 40px;box-sizing:border-box}
 .lb img{max-width:92vw;max-height:72vh;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
 .lb .lbmeta{margin-top:14px;text-align:center;max-width:640px;color:#fff;padding-bottom:20px}
 .lb .lbmeta h3{font-size:1.05rem;font-weight:600}
@@ -76,6 +76,7 @@ input#search{min-width:170px}
 .about .credit{background:#f0f3f9;border-radius:8px;padding:12px 14px;font-size:.86rem;color:var(--txt);border:1px solid var(--line)}
 @media(max-width:600px){.grid{columns:2 150px}h1{font-size:1.2rem}}
 body:not(.admin) .admin-only{display:none !important;}
+body.lb-open{overflow:hidden;touch-action:none}
 .adminflag{position:fixed;bottom:10px;left:12px;font-size:.7rem;color:var(--dim);background:var(--card);border:1px solid var(--line);padding:3px 8px;border-radius:6px;z-index:80;display:none}
 body.admin .adminflag{display:block}
 </style>
@@ -244,14 +245,14 @@ function render(){
   updateSavebar();
 }
 function esc(s){return(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
-function openLB(i){lbIdx=i;showLB();document.getElementById('lb').classList.add('on');}
+function openLB(i){lbIdx=i;showLB();document.getElementById('lb').classList.add('on');document.body.classList.add('lb-open');}
 function showLB(){const it=curList[lbIdx];document.getElementById('lbimg').src=it.url;
   document.getElementById('lbtitle').textContent=it.title;
   document.getElementById('lbdesc').textContent=it.category+(it.date?' · '+it.date:'')+(it.desc?' — '+it.desc:'');
   document.getElementById('lbfull').href=it.url;
   document.getElementById('lb').scrollTop=0;}
 function stepLB(d){lbIdx=(lbIdx+d+curList.length)%curList.length;showLB();}
-function closeLB(){document.getElementById('lb').classList.remove('on');}
+function closeLB(){document.getElementById('lb').classList.remove('on');document.body.classList.remove('lb-open');}
 function closeModal(id){document.getElementById(id).classList.remove('on');}
 function toggleEditMode(){editMode=!editMode;
   document.getElementById('editBtn').textContent=editMode?'✓ Gotovo':'✎ Uredi';render();}
