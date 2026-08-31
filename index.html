@@ -40,16 +40,17 @@ input#search{min-width:170px}
 .tile .badge{position:absolute;top:7px;right:7px;background:rgba(255,255,255,.9);color:var(--dim);font-size:.64rem;padding:2px 6px;border-radius:5px;border:1px solid var(--line)}
 .tile.newimg .badge{background:var(--gold);color:#fff;border-color:var(--gold)}
 .empty{padding:60px 20px;text-align:center;color:var(--dim)}
-.lb{position:fixed;inset:0;background:rgba(20,28,45,.92);z-index:100;display:none;align-items:center;justify-content:center;flex-direction:column;padding:20px}
+.lb{position:fixed;inset:0;background:rgba(20,28,45,.92);z-index:100;display:none;align-items:flex-start;justify-content:center;flex-direction:column;padding:20px 20px 40px;overflow-y:auto;-webkit-overflow-scrolling:touch}
 .lb.on{display:flex}
+.lb .lbinner{margin:auto;display:flex;flex-direction:column;align-items:center;width:100%;max-width:100%}
 .lb img{max-width:92vw;max-height:72vh;border-radius:8px;box-shadow:0 20px 60px rgba(0,0,0,.5)}
-.lb .lbmeta{margin-top:14px;text-align:center;max-width:640px;color:#fff}
+.lb .lbmeta{margin-top:14px;text-align:center;max-width:640px;color:#fff;padding-bottom:20px}
 .lb .lbmeta h3{font-size:1.05rem;font-weight:600}
-.lb .lbmeta p{color:#c7d0e0;font-size:.85rem;margin-top:6px}
-.lb .nav{position:absolute;top:50%;transform:translateY(-50%);font-size:2.4rem;color:#c7d0e0;cursor:pointer;padding:20px;user-select:none}
+.lb .lbmeta p{color:#c7d0e0;font-size:.85rem;margin-top:6px;white-space:pre-wrap}
+.lb .nav{position:fixed;top:50%;transform:translateY(-50%);font-size:2.4rem;color:#c7d0e0;cursor:pointer;padding:20px;user-select:none;z-index:2}
 .lb .nav:hover{color:#fff}
 .lb .prev{left:6px}.lb .next{right:6px}
-.lb .close{position:absolute;top:14px;right:20px;font-size:1.8rem;color:#c7d0e0;cursor:pointer}
+.lb .close{position:fixed;top:14px;right:20px;font-size:1.8rem;color:#c7d0e0;cursor:pointer;z-index:2}
 .lb .full{margin-top:10px;color:#8fb6ee;font-size:.82rem;text-decoration:none;display:inline-block}
 .modal{position:fixed;inset:0;background:rgba(20,28,45,.55);z-index:120;display:none;align-items:center;justify-content:center;padding:20px}
 .modal.on{display:flex}
@@ -113,9 +114,11 @@ body.admin .adminflag{display:block}
   <span class="close" onclick="closeLB()">✕</span>
   <span class="nav prev" onclick="stepLB(-1)">‹</span>
   <span class="nav next" onclick="stepLB(1)">›</span>
-  <img id="lbimg" src="">
-  <div class="lbmeta"><h3 id="lbtitle"></h3><p id="lbdesc"></p>
-  <a class="full" id="lbfull" href="#" target="_blank">Otvori punu rezoluciju ↗</a></div>
+  <div class="lbinner">
+    <img id="lbimg" src="">
+    <div class="lbmeta"><h3 id="lbtitle"></h3><p id="lbdesc"></p>
+    <a class="full" id="lbfull" href="#" target="_blank">Otvori punu rezoluciju ↗</a></div>
+  </div>
 </div>
 
 <!-- About modal -->
@@ -128,7 +131,6 @@ body.admin .adminflag{display:block}
       <li>Filtriranje po kategorijama i pretraga po nazivu i opisu</li>
       <li>Sortiranje po datumu, kategoriji ili nazivu</li>
       <li>Uvećani prikaz (lightbox) s navigacijom strelicama</li>
-      <li>Uređivanje naslova, kategorija i opisa te dodavanje novih slika preko URL-a</li>
     </ul>
     <div class="credit">
       <b>Autori fotografija:</b> Alan Ćatović i Džan Jašarević<br>
@@ -196,7 +198,7 @@ body.admin .adminflag{display:block}
 </div>
 
 <script>
-const CATS=["Sve", "Deep-sky", "Nightscape", "Mliječni put", "Deepscape", "Planeti", "Mjesec", "Sunce", "Komete", "Meteori"];
+const CATS=["Sve", "Deep-sky", "Nightscape", "Mliječni put", "Deepscape", "Planeti", "Mjesec", "Sunce", "Komete", "Meteori", "Ostale"];
 let data=[],activeCat="Sve",editMode=false,curList=[],lbIdx=0,editId=null;
 function boot(){
   data=JSON.parse(JSON.stringify(RAW));
@@ -246,7 +248,8 @@ function openLB(i){lbIdx=i;showLB();document.getElementById('lb').classList.add(
 function showLB(){const it=curList[lbIdx];document.getElementById('lbimg').src=it.url;
   document.getElementById('lbtitle').textContent=it.title;
   document.getElementById('lbdesc').textContent=it.category+(it.date?' · '+it.date:'')+(it.desc?' — '+it.desc:'');
-  document.getElementById('lbfull').href=it.url;}
+  document.getElementById('lbfull').href=it.url;
+  document.getElementById('lb').scrollTop=0;}
 function stepLB(d){lbIdx=(lbIdx+d+curList.length)%curList.length;showLB();}
 function closeLB(){document.getElementById('lb').classList.remove('on');}
 function closeModal(id){document.getElementById(id).classList.remove('on');}
