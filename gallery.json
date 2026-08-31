@@ -5,7 +5,7 @@
   "title": "Jupiter sa GRS i satelitima",
   "category": "Planeti",
   "date": "",
-  "desc": ""
+  "desc": "Jupiter (GRS), Io i Europa (lijevo dalje) snimljeni sa QHY 5-II kamerom, Barlow 2.5x TS i SCT 200mm/2000mm teleskopom. Obrada: Registax i Photoshop."
  },
  {
   "id": 4,
@@ -13,7 +13,7 @@
   "title": "Saturn",
   "category": "Planeti",
   "date": "",
-  "desc": ""
+  "desc": "Snimak sa mono ccd kamerom ASI120mm-S (with LRGB filters) na C8 Schmidt-Cassegrain teleskopu i EQ6 postolju. Obrada u  Autostakkert, Registax, Lightroom i Photoshop.\n\n"
  },
  {
   "id": 5,
@@ -53,7 +53,7 @@
   "title": "Kometa Neowise",
   "category": "Komete",
   "date": "",
-  "desc": ""
+  "desc": "Kometa Neowise (C/2020 F3)"
  },
  {
   "id": 10,
@@ -74,7 +74,7 @@
  {
   "id": 12,
   "url": "https://night-breaker.com/wp-content/uploads/2020/07/0-1.jpg",
-  "title": "Kometa",
+  "title": "Kometa Neowise (C/2020 F3)",
   "category": "Komete",
   "date": "",
   "desc": ""
@@ -85,12 +85,12 @@
   "title": "Kometa Neowise iznad Sarajeva",
   "category": "Komete",
   "date": "",
-  "desc": ""
+  "desc": "Kometa Neowise (C/2020 F3)"
  },
  {
   "id": 14,
   "url": "https://night-breaker.com/wp-content/uploads/2020/07/img_2676.jpg",
-  "title": "Kometa Neowise",
+  "title": "Kometa Neowise (C/2020 F3)",
   "category": "Komete",
   "date": "",
   "desc": ""
@@ -261,7 +261,7 @@
   "title": "Uran",
   "category": "Planeti",
   "date": "",
-  "desc": ""
+  "desc": "Snimljeno sa C8 teleskopom i kamerom ASI120MM-S, EQ6).\n\nUran je treći najveći planet i četvrti po masi. Udaljen je od Zemlje od 2.6 do 3.2 milijarde kilometara. Svjetlosti treba oko 2.7h da dođe sa Urana do Zemlje.\n\nKoristili smo planetarnu kolor kameru QHY 5-II, Barlow 2.5x GSO sistem i Schmidt-Cassegrain teleskop 200mm/2000mm (Celestron C8). Obrada u Registaxu (610 frejmova).\n\nKako bi izgledala posjeta Uranu?\n\nIako nije najdalja planeta od Sunca, Uran je vjerovatno najhladnija. Od Sunca do Urana ima u prosjeku oko 2,88 milijardi kilometara, a do Neptuna 4,5 milijardi. Zašto je Uran hladniji? Zato što za razliku od ostalih velikih planeta on više prima nego što emituje toplote. Druge velike planete imaju vrlo toplo jezgro i zrače infracrvene zrake. Nešto čini da je jezgro Urana hladnije od tačke na kojoj bi zračio toplotu. Temperatura oblaka Urana pada do -224 stepena C.\nNagib ose Urana je ekstreman i iznosi oko 98 stepeni. Zbog toga izgleda kao da Uran leži na svojoj putanji oko Sunca. Iako dan na Uranu traje oko 17 sati, nagib Urana je takav da je jedan pol usmjeren ka Suncu, što znači da jedan dan, na recimo sjevernom polu Urana traje pola Uranove godine koja je 84 zemaljskih godina. Znači, ako na sjevernom polu Urana vidite izlazak Sunca, do njegovog zalaska moraćete da pričekate 42 godine. Potom dolazi tamna noć koja traje druge 42 godine, najduža noć u solarnom sistemu.\nBoja atmosfere Urana u vidljivoj svjetlosti je plavkasta. Uran ima 27 satelita, ali su prilično male mase i svi zajedno jedva da imaju masu kao pola Tritona (najveći Neptunov mjesec). Na Tritonu su okeani prirodnog gasa (u tečnom stanju).\nNajveći Uranov satelit je Titania čiji prečnik je kao pola prečnika našeg Mjeseca."
  },
  {
   "id": 40,
@@ -284,8 +284,8 @@
   "url": "https://night-breaker.com/wp-content/uploads/2015/11/venera1.jpg",
   "title": "Venera",
   "category": "Planeti",
-  "date": "2015-11",
-  "desc": ""
+  "date": "",
+  "desc": "Venera snimljena sa QHY 5-II kamerom, Barlow 2.5x GSO i 8″ SCT. Obrada: Registax i Photoshop.\n\n"
  },
  {
   "id": 44,
@@ -341,7 +341,7 @@
   "title": "Maglina Plejade",
   "category": "Deep-sky",
   "date": "",
-  "desc": ""
+  "desc": "Lokacija i datum: Sarajevo, dec. 2014..\nOprema: NEQ6, SW APO 120mm, Canon 500D\nObrada: Nebulosity, Pixinsight, Photoshop\n\nPlejade su prelijepi otvoreni skup zvijezda koji sadrži većinom zvijezde tipa B i nalazi se u sazviježđu Bik. Jedan je od nama najbližih zvjezdanih skupova i lako se prepoznaje na noćnom nebu. Skupom dominiraju vruće plave i ekstremno luminozne zvijezde koje su se formirale u posljednjih 100 miliona godina. Zvijezde prolaze kroz prašinu koja formira blijedu refleksionu maglinu. Numeričke simulacije pokazuju da su Plejade vjerovatno formirane iz konfiguracije koja podsjeća na Orionovu maglinu (M42).\nAstronomi predviđaju da će skup M45 preživjeti još nekih 250 miliona godina nakon čega će doći do disperzije zbog gravitacionih interakcija u blizini. "
  },
  {
   "id": 52,
@@ -421,7 +421,7 @@
   "title": "Startrails",
   "category": "Nightscape",
   "date": "",
-  "desc": ""
+  "desc": "Kada se na slikama ne poništava rotacija Zemlje (trackerom) nastaju zvjezdani tragovi radi prividnog kretanja zvijezda (ustvari se okreće Zemlja). Lijevo iznad centralnog dijela slike vidi se Sjevernjača (Polaris) oko koje se sve zvijezde prividno kreću. Na ovaj način ističu se i boje zvijezda jer svaka ima specifičnu boju, pri čemu mlađe, plave zvijezde (25 000 K) imaju veću temperaturu od bijelih (10 000 K), žutih (6000 K), narandžastih (4000 K) i crvenih (3000 K).\n\nLokacija i datum: Obla brda (kod Dejčića)\nOprema: Canon 650D, Sigma 10-20 mm, intervalometar\nSnimci: oko 2h snimanja, ekspozicije po 30s, ISO 1600, f/5.\nObrada: Startstax (lighten i comet mode), Photoshop."
  },
  {
   "id": 63,
@@ -469,7 +469,7 @@
   "title": "Zvjezdani skup M13",
   "category": "Deep-sky",
   "date": "",
-  "desc": ""
+  "desc": "Veliki Herkulov Skup (M13) – nekoliko stotina hiljada zvijezda, snimljen 13. 08. 2015 u okolini Sarajeva.\n\nZanimljivost: godine 1974. radioteleskop u Arecibu je poslao poruku poruku mogućim „stanovnicima“ neke planete u tom zvjezdanom skupu.Desno (dole) na slici nalazi se spiralna galaksija NGC 6207, udaljena oko 39 miliona svj. godina od Zemlje i nalazi se u sazviježđu Herkul.\n\nOprema: SW APO 120mm f/7.5, FR FF 0.85x, NEQ 6 Pro, Canon 350D mod, QHY 5L-II\nSoftveri za vođenje: PHD\nVrijeme integracije: 5 min\nObrada: Nebulosity, Pixinisght LE, Photoshop\n\nMessier 13 (M13 ili NGC 6205) ili tzv. Veliki Herkulov Skup je kuglasti skup otkriven 1714. godine. Skup je otkrio Edmond Halley, a Charles Messier ga je uvrstio u katalog 1. juna 1764. godine.Messier 13 se nalazi u sazviježđu Herkul, na udaljenosti od 25,100 svj. godina. Prividni promjer skupa je 20′ što na toj udaljenosti odgovara linearnim dimenzijama od 146 svj. godina. Skup se sastoji od nekoliko stotina hiljada zvijezda. Prema njegovoj jezgri, koncentracija zvijezda je 500 puta veća nego u okolici Sunčevog sistema. Dosad su u skupu otkrivene 33 promjenjive zvijezde od kojih je najsjajnija zvijezda V11 sa prividnim sjajem od + 11.95 magnituda. Messier 13 se kroz prostor kreće brzinom od 245.6 km/s i trenutno nam se približava.\nMessier 13 je poznat po ljepoti kada se promatra teleskopom. Njegov prividni sjaj iznos +5.8 magnituda što znači da ga je moguće vidjeti golim okom u tamnim noćima, daleko od ulične rasvjete. Lako ga je primijetiti u dvogledu kao sjajnu mutnu mrlju. U manjim teleskopima moguće je nazrijeti granulaciju pri rubovima, a teleskopi s objektivima od 100 – 150 mm razlučuju najsjajnije zvijezde pri rubovima. Veći teleskopi, s objektivima od 200 do 250 mm razlučuju rubove i djelomično jezgru. Veliki amaterski teleskopi mogu u potpunosti razlučiti skup. Zanimljiva pojava su 4 regije siromašne zvijezdama u skupu i mogu se uočiti vizualno."
  },
  {
   "id": 72,
@@ -477,7 +477,7 @@
   "title": "Zvezdani skup M3",
   "category": "Deep-sky",
   "date": "",
-  "desc": ""
+  "desc": "M3 kuglasti skup zvijezda, snimljen iz okoline Sarajeva (Miševići), 25. 04. 2015.\nSnimljen sa 900mm APO refraktorom f/7.5, FF FT 0.85x, Canon 500D.\nObrada: DSS, Photoshop\n\nMessier 3 (NGC 5272) je kuglasti skup u sazviježđu Lovački psi. Otkrio ga je Charles Messier 1764. godine, a prvi u zvijezde razlučio William Herschel 1784. godine.\nM3 je jedan od najspektakularnijih kuglastih skupova. Sastoji se od gotovo pola miliona zvijezda od čega ih je 212 promjenljivog sjaja. Prividna magnituda ovog skupa je +6.2, a ugaoni promjer je 18′. Na udaljenosti od 33,900 svj. godine to odgovara sjaju 300,000 puta većem od Sunčeva i stvarnom promjeru od 180 svj. godina. Procjenjuje se da je masa kuglastog skupa oko 245,000 puta veća od Sunčeve. Starost skupa je procijenjena na 11.4 milijarde godina.Zbog velikog prividnog sjaja, M3 je moguće vidjeti i golim okom u tamnoj noći, daleko od rasvijete i gradova. Kroz dvogled izgleda kao mutna zvijezda, a gledan teleskopom sa 76 mm objektivom, M3 pokazuje naznake razlučivanja. Teleskop od 150 mm u stanju je razlučiti vanjske dijelove skupa. Za potpuno razlučivanje skupa M3 i njegove jezgre, potreban je teleskop s 300 mm objektivom."
  },
  {
   "id": 73,
@@ -581,7 +581,7 @@
   "title": "Plejade - širokougani snimak",
   "category": "Deep-sky",
   "date": "",
-  "desc": ""
+  "desc": "Lokacija i datum: Sarajevo, 31.10.2016.\nOprema: SW Star Adventurer, 50/330mm APO, Canon 1100D mod\nVođenje: QHY-5II, PHD\nEkspozicija: ukupno 100min (Raw, ISO 200)\nObrada: Maxim dl, Pixinsight, Photoshop"
  },
  {
   "id": 93,
@@ -757,7 +757,7 @@
   "title": "Mars",
   "category": "Planeti",
   "date": "",
-  "desc": ""
+  "desc": "Mars snimljen sa mono kamerom (ZWO ASI 120-MM) i RGB filterima (3 min po kanalu), sa powermate 5x barlow sistemom. Na Marsu se vidi karakteristični tamniji region Syrtis Major Planum (gdje je krater Jezero) i Hellas Planitia ispod.\n\nViše detalja na: https://night-breaker.com/2020/10/18/opozicija-marsa-2020/"
  },
  {
   "id": 129,
@@ -1690,7 +1690,7 @@
  {
   "id": 354,
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/tsuchinshan-e28093atlas.jpg",
-  "title": "Kometa Tsuchinshan",
+  "title": "Komet C/2023 A3 (Tsuchinshan-ATLAS)",
   "category": "Komete",
   "date": "",
   "desc": ""
@@ -1845,7 +1845,7 @@
   "title": "Saturn",
   "category": "Planeti",
   "date": "",
-  "desc": "Snimljeno iznad Dobrinje"
+  "desc": "Snimljeno iznad Dobrinje. aturn snimljen sa SCT Celestron C8 i ASI-120MM kamerom, uz 2.5X barlow (TS). Efektivni fokus oko 5 m."
  },
  {
   "id": 381,
@@ -1866,18 +1866,18 @@
  {
   "id": 383,
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/skuap-sve-copy.jpg",
-  "title": "Kometa Atlas",
+  "title": "Kometa C/2025 A6 (Lemmon)",
   "category": "Komete",
   "date": "2020-08",
-  "desc": ""
+  "desc": "Dana 28.10.2025. smo Džan i ja sa Mojmila snimali kometu C/2025 A6 (Lemmon). Nebo je konačno bilo vedro (nakon 10 dana oblaka), a seeing solidan. Snimali smo sa novom igračkom, Seestar S50 (apohromatski triplet i senzor Sony IMX 462). Ispod je dat snimak komete, načinjen od 90 slika, svaka sa ekspozicijom od 20 s (ukupno 30 min). Snimci su stakirani u DSS, a potom obrađeni u Seti Astro Tools i Photoshop. Na slici se vide dvije repne komponente komete:\nPlavičasti, uži rep koji ide u lijevo prema gore je tzv. jonski rep (eng. ion tail), sastavljen od plinova koje Sunčev vjetar tjera u suprotnom smjeru od Sunca. Njegova boja potiče od joniziranog ugljik-monoksida (CO⁺) koji svijetli plavičasto.\nŠiri, žućkasto-ružičasti rep je “prašinski” rep, građen od sitnih čestica prašine koje reflektiraju Sunčevu svjetlost i daju kometi “zlatni” sjaj.\nSjajna “glava” (koma) oko jezgre prikazuje gdje led i prašina intenzivno isparavaju dok kometa prolazi bliže Suncu. Ta koma okružuje nevidljivu čvrstu jezgru promjera svega nekoliko kilometara. Kada se kometa približi Suncu, led iz njene jezgre počinje da sublimira (pretvara se direktno iz leda u plin). Taj plin sadrži mnoge molekule, među njima i C₂ (dijatomski ugljik) i CN (cijanogen). Pod utjecajem UV zračenja Sunca, te molekule se pobude i joniziraju, i tada emituju karakterističnu zelenu svjetlost – posebno C₂. Spektralne linije C₂ daju intenzivan zelenkast sjaj u području talasne dužine reda 500–550 nm, što se najviše primjećuje u komi, odmah oko jezgre, gdje je koncentracija plinova i najveća. Ta zelena svjetlost brzo nestaje jer se molekule C₂ razgrađuju na Sunčevom svjetlu dok ih Sunčev vjetar nosi sve dalje od jezgre. Zato rep komete obično izgleda plavičasto (jonski rep) ili zlatno-ružičasto (prašinski rep), ali ne zeleno – ta boja je rezervisana samo za komu, najgušći dio oko jezgre"
  },
  {
   "id": 384,
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/img_4632.jpg",
-  "title": "Hvatanje komete Atlas na Mojmilu",
+  "title": "Hvatanje komete na Mojmilu",
   "category": "Komete",
   "date": "2020-08",
-  "desc": ""
+  "desc": "Kometa C/2025 A6 (Lemmon)"
  },
  {
   "id": 385,
@@ -1885,7 +1885,7 @@
   "title": "Kometa SWAN",
   "category": "Komete",
   "date": "",
-  "desc": ""
+  "desc": "Dana 25.10.2025 sam snimio (slika dole) i kretanje komete C/2025 R2 (SWAN) tokom 15 minuta na nebu. Snimljeno iz Sarajeva. Korišten Seestar S50, 90 ekspozicija po 10 s. Obrada: Registax, Seti Astro Suite, Photoshop. Kometa C/2025 R2 (SWAN) tokom 15 minuta na nebu. Snimljeno iz Sarajeva. Korišten Seestar S50, 90 ekspozicija po 10 s. Obrada: Registax, Seti Astro Suite, Photoshop."
  },
  {
   "id": 386,
@@ -2086,5 +2086,69 @@
   "category": "Deep-sky",
   "date": "2018-11",
   "desc": "Detalji na: https://night-breaker.com/2018/11/09/obrada-hubble-snimka/\n\nSnimci: HST (Hubble Legacy Archive), tri snimka pri talasnim dužinama od 435nm (plava, ukupna eksp.: 16320s), 555nm (zelena, ukupna eksp.: 8160s) i 658nm (crvena, ukupna eksp.: 15640s).\nObrada: Pixinsight, Photoshop, Lightroom (Alan Ćatović)\n(Snimak u punoj rezoluciji (11269×7707 px), koji možete koristiti kao wallpaper, možete download-ovati na ovom LINKU.)\n\nViše o galaksijama M51:\n\nGalaksija Vrtlog, poznata još kao Messier 51a, je spiralna galaksija u sazviježđu Lovački psi. Otkrio ju je Charles Messier 1773. godine. Pratilju je otkrio Pierre Méchain 1781. godine.\n\nGalaksija M51a je spiralna galaksija tipa SA. Praćenjem sjaja supernova određena je njena udaljenost od 23 miliona svj. godina. Starije procjene su je smještale na udaljenost od 30 do 37 miliona svj. godina. Prividni promjer galaksija je 11.2 lučne minute što odgovara linearnim dimenzijama od 76,000 svj. godina. Masa galaksije je oko 1.6×1012 sunčevih masa. M51 je dimenzijama i masom upola manja od naše galaksije, Mliječne staze.\n\nVeoma izražena spiralna struktura M51a posljedica je utjecaja sudara s M51b (NGC 5195) u prošlosti. Sudari su se odigrali u dva navrata. Prvi sudar se dogodio prije 500 do 600 miliona godina. U tom sudaru, NGC 5195 je prošla kroz disk M51a. U drugom sudaru koji se dogodio prije 50 do 100 miliona godina NGC 5195 prišla je iz pozadine M51a i ponovno prošla kroz disk. Danas se NGC 5195 nalazi iza M51a. Oblaci plina i prašine u spiralnim krakovima M51 urušili su se zbog sudara s NGC 5195. Posljedica toga je nastanak mnogih regija u kojima se formiraju zvijezde. Te regije slične su maglicama M42 i M8."
+ },
+ {
+  "id": 424,
+  "url": "https://night-breaker.com/wp-content/uploads/2016/03/m44-beehive-glavna.jpg?w=1440&h=960",
+  "title": "M44 (Otvoreni zvjezdani skup Jaslice, Košnica)",
+  "category": "Deep-sky",
+  "date": "",
+  "desc": "Detalji snimka: ISO 800, M mode, RAW, tri ekspozicije od po 180 s, 360 s i 90 s. Ukupno 10,5 minuta ekspozicije.\n\nMessier 44 (M44 ili NGC 2632) je otvoreni zvjezdani skup u sazviježđu Rak. Poznat je još po imenom Jaslice ili Košnica. Skup je vidljiv golim okom i poznat je bio još Grcima. Prvo teleskopsko promatranje izveo je Galileo Galilei. Galileo je skup razlučio na zvijezde (nabrojio ih je 36). Charles Messier uvrstio ga je u svoj katalog 4 marta 1769. godine.\n\nStarost skupa je procijenjena na 730 miliona godina. Njegova starost i smjer kretanja poklapa se s otvorenim skupom Hijade u sazviježđu Bik. Vjeruje se da su M44 i Hijade nastale u isto vrijeme iz istog međuzvjezdanog oblaka prašine i plina.\n\nUdaljenost ovog zvjezdanog skupa je oko 577 svjetlosnih godina. Njegov prividni promjer je 1,5 stepeni što odgovara stvarnom promjeru od oko 15 svjetlosnih godina. Dosad je otkriveno oko 200 zvijezda koje pripadaju skupu premda bi ta brojka mogla porasti na 350. Skup sadrži nekoliko crvenih i bijelih divova.\n\nNajsjanije zvijezde u skupu su plave zvijezde prividnog sjaja magnitude od + 6 do + 6,5.\n\nMessier 44 ima prividni sjaj od magnitude + 3,7. U tamnijim noćima lako je uočljiv kao mrljica u središtu sazviježđa Rak. Manji dvogled bit će dovoljan da razluči skup na pojedine zvijezde. Veći dvogledi i manji teleskopi pokazat će veći broj zvijezda. Veliki teleskopi kvare dojam skupa jer ne stane u njihovo vidno polje zbog velikog prividnog promjera."
+ },
+ {
+  "id": 425,
+  "url": "https://night-breaker.com/wp-content/uploads/2016/03/m67-glavna.jpg?w=1440&h=950",
+  "title": "Zvjezdani skup M67",
+  "category": "Deep-sky",
+  "date": "",
+  "desc": "Detalji snimka: ISO 800, M mode, RAW, 11 ekspozicija od po 120 s, 240 s, 360 s, 180 s, 180 s, 180 s, 180 s, 180 s, 180 s, 180 s i 180 s. Ukupno 45 minuta ekspozicije.\n\nMessier 67 (M67 ili NGC 2682) je otvoreni zvjezdani skup u sazviježđu Rak. Otkrio ga je Johann Gottfried Koehler 1779.godine, a Charles Messier ga je samostalno otkrio godinu dana kasnije i dodao u katalog.\nM67 se nalazi oko 2700 svjetlosne godine od Zemlje. Skup se proteže oko 30′ na nebu ili 23 svj. godine u stvarnosti. Starost skupa je velika, između 3,2 i 5 milijardi godina. Novije procjene govore o starosti od 4 milijarde godina. M67 nije najstariji otvoreni skup u galaksiji ali pripada među starije. Gravitacijska privlačnost među zvijezdama otvorenih skupova nije velika i oni se u većini slučajeva dezintergriraju u roku od milijardu godina.\nM67 se detaljno istražuje i proučava ali unatoč tome, njegova svojstva se znatno razlikuju od izvora do izvora. Danas se smatra da je skup star 4 milijarde godina, da sadrži oko 150 bijelih patuljaka i ima ukupnu masu od 1080 do 1400 sunčevih.\nSkup sadrži više od 100 zvijezda sličnih Suncu i mnogo crvenih divova. Ukupan broj zvijezda je procijenjen na oko 500. Zbog sličnosti zvijezda u skupu, M67 se detaljno proučava u svrhu razvoja modela evolucije zvijezda.\nM67 ima prividni sjaj od magnitude + 6,1. Lako ga je uočiti u 10×50 dvogledu ali zvijezde su većinom tamnije od magnitude + 10 pa nisu vidljive u dvogledu. U 200 mm teleskopu moguće je vidjeti preko 50 zvijezda na prostoru ugaone širine od 20 do 30′."
+ },
+ {
+  "id": 426,
+  "url": "https://night-breaker.com/wp-content/uploads/2015/12/hijade-venera-i-plejade-mala.jpg",
+  "title": "Hijade, Plejade i Venera",
+  "category": "Planeti",
+  "date": "2015-12",
+  "desc": "Snimljeno sa Canon 6D i Canon 50mm. Ekspozicija 50s, f5.0, ISO 1600, RAW.\n\nHijade (Hyades [hi’ade:s]), najbliži otvoreni zvijezdani skup vidljiv u sazviježđu Biku kraj Aldebarana, udaljen od Zemlje 150 svjetlosnih godina. Čini ga 400 do 500 zvijezda ukupne mase oko 400 Sunčevih masa. Promjer je jezgre skupa 20 svjetlosnih godina. Starost skupa (oko 625 miliona godina), smjer i brzina njegova gibanja podudaraju se sa starošću i gibanjem Jaslica pa se smatra da potječu iz istog međuzvjezdanog oblaka. U središtu skupa sve su se zvijezde velike mase (spektralnih razreda O i B, veće od 3 Sunčeve mase) razvile do faze superdivova (4) ili bijelih patuljaka (8), veći je broj zvijezda spektralnog razreda zvijezda A (21), F (oko 60), G (oko 50), K (oko 50) i M (oko 10). Dosad je u središtu skupa otkriveno samo 12 smeđih patuljaka. U vanjskim rubovima skupa nalazi se velik broj patuljastih zvijezda koje će se s vremenom vjerojatno gravitacijski odvojiti i raspršiti u svemir. Skup je nazvan prema Hijadama iz grčke mitologije."
+ },
+ {
+  "id": 427,
+  "url": "https://night-breaker.com/wp-content/uploads/2015/11/saturn-zadnja.jpg",
+  "title": "Saturn",
+  "category": "Planeti",
+  "date": "",
+  "desc": "Lokacija: Dobrinja (Sarajevo), 20.07.2016.\nOprema: SW APO 120mm/900mm refraktor, NEQ6 postolje, planetarna kamera QHY-5II, TeleVue Powermate 5x\nObrada: Registax, Photoshop"
+ },
+ {
+  "id": 428,
+  "url": "Jupiter, Kalisto i Ganimed",
+  "title": "novo jup 1",
+  "category": "Deep-sky",
+  "date": "2020-07",
+  "desc": "Jupiter, Kalisto i Ganimed, snimljeni sa QHY 5-II kamerom, Barlow 2.5x TS i SCT 200mm/2000mm teleskopom. Obrada: Registax i Photoshop.\n"
+ },
+ {
+  "id": 429,
+  "url": "https://night-breaker.com/wp-content/uploads/2015/11/Kometa-i-Aldebaran.jpg?w=1278",
+  "title": "Kometa 46P/Wirtanen, Aldebaran i Hijade",
+  "category": "Komete",
+  "date": "",
+  "desc": "Detalji snimka:\nLokacija: Prečansko polje kod Dejčića\nOprema: Canon 6d + Canon 85mm @f2.2\nVođenje: Skywatcher Star Advanturer tracker\nEkspozicija: 8 x 30sec\nObrada: Nebulosity (stakiranje), Lightroom, Photoshop\n\nDesno na slici se vidi kometa 46P/Wirtanen, zelenkaste boje. Na slijevoj strani slike su spektakularni Aldebaran i zvjezdani skup Hijade u sazviježđu Bik.\n\nViše o kometi 46P/Wirtanen:\nKometa 46P/Wirtanen je kratko-periodični kometa sa orbitalnim periodom od oko 5,4 godine. Bio je prvobitna meta letjelice Rosetta (European Space Agency) ali se na kraju odustalo od toga. Prečnik mu je oko 1,2 km. Komet će biti najbliže Suncu u srijedu 12., a Zemlji u nedjelju 16. decembra. Tako će u nedjelju projuriti pored našeg planeta na udaljenosti od oko 11 miliona kilometara. Sa tamnijih lokacija komet se može vidjeti i golim okom, a za više detalja najbolje je snimiti ga digitalnim aparatom (na postolju).\nKomet 46P/Wirtanen ima zanimljivu zelenkastu komu. Koma (lat. Coma; grč. ϰόμη: kosa) je magličasta obvojnica jezgre kometa koja zajedno s jezgrom tvori glavu kometa. Sastoji se od plinova i prašine. Kuglasta je ili izduženog oblika, a nekad pokazuje slojeve. Nastaje kada Sunce dovoljno zagrije jezgru kometa, iz koje se tada oslobađaju plinovi sublimacijom zaleđene materije, noseći sa sobom čestice praha. Koma je zapravo atmosfera u kojoj djelovanjem Sunčevog zračenja dolazi do disocijacije molekula i do jonizacije produkata raspada, koji su pobuđeni pa svjetle određenom bojom."
+ },
+ {
+  "id": 430,
+  "url": "https://night-breaker.com/wp-content/uploads/2015/11/IMG_1269.jpg?w=1228",
+  "title": "Rapsodija na Bjelašnici",
+  "category": "Komete",
+  "date": "",
+  "desc": "Komet 46P/Wirtanen (zelene boje), sazviježđe Orion (pri dnu), Aldebaran i zvjezdani skup Hijade (u centru) i zvjezdani skup Plejade (na vrhu). Snimljeno u blizini Dejčića. Spektakularna noć, spektakularna lokacija. Canon 6D + Samyang 14mm f2.8, 20 sec, ISO 3200."
+ },
+ {
+  "id": 431,
+  "url": "https://night-breaker.com/wp-content/uploads/2015/11/c-2014-q2-lovejoy.jpg",
+  "title": "Komet Lovejoy (C/2014 Q2)",
+  "category": "Komete",
+  "date": "2015-11",
+  "desc": "Oprema: SW APO refraktor 120mm f/7.5, Canon 500D\nSnimanje: 15x45s light frames ISO 1600, 10x45s dark frames\nObrada: Nebulosity, PI LE, Photoshop\n\nViše o kometi:\n\nC/2014 Q2 (Lovejoy) je dugoperiodični komet kojeg je 17. avgusta 2014. otkrio Terry Lovejoy. U trenutku otkrića sjaj kometa je bio 15. magnitude i nalazio se u južnom zviježđu Krma. Komet C/2014 Q2 je peti komet kojeg je otkrio Terry Lovejoy, australski astronom amater.\n\nKomet je do decembra 2014. povećao sjaj na magnitudu 7.4 što ga je učinilo vidljivim u malim teleskopima i dvogledima. U drugoj polovici decembra komet je bilo moguće vidjeti i golim okom s veoma tamnih lokacija. U noći s 28. na 29. decembra 2014. komet je prošao samo 1/3 stepena od kuglastog skupa Messier 79 u sazviježđu Zec.\nC/2014 Q2 je prvi komet nakon dugo vremena koji je istodobno bio sjajan i vidljiv na tamnom noćnom nebu.\nPrije prolaska kroz perihel komet je imao period obilaska oko Sunca od oko 11.500 godina, ali zbog gravitacijskih utjecaja planeta nakon prolaska period obilaska će se smanjiti na oko 8.000 godina."
  }
 ]
