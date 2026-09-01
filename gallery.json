@@ -205,7 +205,7 @@
   "title": "Planetarna maglina Sova",
   "category": "Deep-sky",
   "date": "",
-  "desc": "Optički sistem: Apohromat Skywatcher 120mm/900mm, FR FF 0,85x\nKamera i filteri: CCD Atik 383L+, Baader Ha (7nm) i OIII uskopojasni filteri\nMontaža i vođenje: NEQ6 motorno praćenje, vođen kroz tražioc teleskopa sa ALCCD5 (QHY-5II) kamerom koristeći OpenPHD2 autoguiding software\nMetoda snimanja: Primarni fokus (Džan Jašsarević)\nEkspozicije: 4x1800s Ha, 4×1800 OIII (ukupno vrijeme ekspozicije 4h) + dark, flat i bias frejmovi\nSoftware: Pixinsight, Photoshop (Alan Ćatović)\nLokacija: Sarajevo (Stup), 7/8.4.2018.\nViše o maglini\n\nMessier 97 (M97 ili NGC 3587) je planetarna maglina u sazviježđu Veliki medvjed. Poznata je i pod nadimkom Maglina Sova (eng. Owl Nebula) zbog dvije šupljine koje sadrži i podsjećaju na oči sove. Maglinu je otkrio Pierre Méchain 16. feb. 1781. Starost magline je 6000-8000 godina.\n\nM97 se nalazi na udaljenosti od oko 2600 svjetlosnih godina. Prividni promjer magline je 3,3 lučne minute što odgovara stvarnom promjeru od 2,5 svjetlosne godine. Strukturom maglina pripada među kompleksnije planetarne magline. Maglinu vjerojatno vidimo kao prsten materijala gledan s bočne strane. Izdanci materijala na kraju prstena skoro se dotiču i tako stvaraju efekt sovinih očiju. Masa magline je oko 0,15 Sunčeve mase. Bijeli patuljak koji je odgovoran za ovu planetarnu maglinu je 14 magnitude, ima pola sunčeve mase i temperaturu od oko 123 000K.\n\nU maglini ima najviše vodika, helijuma, kisika, nitrogena i sumpora. Prečnik joj je oko 0,9 svj. godina i širi se u svemir brzinom oko 40 km/s.\n\nKao i većina planetarnih maglina, i M97 sjaji većinom u samo jednoj spektralnoj liniji od 500,7 nm. Posljedica toga je da je njena prividna vizualna magnituda +9.7, a fotografska (u plavom svijetlu) +12.\n\nM97 je uz pomoć posebnih filtera moguće vidjeti u 200 mm teleskopu. Bez filtera vidljiva je kao okrugla maglina bez ikakvih detalja. Filteri poput UHC-a pokazat će naznake šupljina u maglini, tj. “očiju” sove. Za jasnije raspoznavanje detalja potrebno je tamnije nebo i teleskop od 250 mm."
+  "desc": ""
  },
  {
   "id": 33,
@@ -276,8 +276,8 @@
   "url": "https://night-breaker.com/wp-content/uploads/2015/11/venera1.jpg",
   "title": "Venera",
   "category": "Planeti",
-  "date": "",
-  "desc": "Venera snimljena sa QHY 5-II kamerom, Barlow 2.5x GSO i 8″ SCT. Obrada: Registax i Photoshop.\n\n"
+  "date": "2015-11",
+  "desc": ""
  },
  {
   "id": 44,
@@ -1781,7 +1781,7 @@
   "title": "Mliječni iznad Visočice",
   "category": "Mliječni put",
   "date": "2020-08",
-  "desc": "Kadar snimljen sa objektivom 35 mm (na Sony a7s). ISO je bio 1600, i urađeno je 10x10s kadrova, uz obradu u Sequatoru i PS. Na osnovu ove 3 slike vidi se kako fokusna dužina objektiva (senzori aparata su iste veličine) utiče na kadar."
+  "desc": ""
  },
  {
   "id": 375,
@@ -1834,18 +1834,18 @@
  {
   "id": 383,
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/skuap-sve-copy.jpg",
-  "title": "Kometa C/2025 A6 (Lemmon)",
+  "title": "Kometa Atlas",
   "category": "Komete",
   "date": "2020-08",
-  "desc": "Dana 28.10.2025. smo Džan i ja sa Mojmila snimali kometu C/2025 A6 (Lemmon). Nebo je konačno bilo vedro (nakon 10 dana oblaka), a seeing solidan. Snimali smo sa novom igračkom, Seestar S50 (apohromatski triplet i senzor Sony IMX 462). Ispod je dat snimak komete, načinjen od 90 slika, svaka sa ekspozicijom od 20 s (ukupno 30 min). Snimci su stakirani u DSS, a potom obrađeni u Seti Astro Tools i Photoshop. Na slici se vide dvije repne komponente komete:\nPlavičasti, uži rep koji ide u lijevo prema gore je tzv. jonski rep (eng. ion tail), sastavljen od plinova koje Sunčev vjetar tjera u suprotnom smjeru od Sunca. Njegova boja potiče od joniziranog ugljik-monoksida (CO⁺) koji svijetli plavičasto.\nŠiri, žućkasto-ružičasti rep je “prašinski” rep, građen od sitnih čestica prašine koje reflektiraju Sunčevu svjetlost i daju kometi “zlatni” sjaj.\nSjajna “glava” (koma) oko jezgre prikazuje gdje led i prašina intenzivno isparavaju dok kometa prolazi bliže Suncu. Ta koma okružuje nevidljivu čvrstu jezgru promjera svega nekoliko kilometara. Kada se kometa približi Suncu, led iz njene jezgre počinje da sublimira (pretvara se direktno iz leda u plin). Taj plin sadrži mnoge molekule, među njima i C₂ (dijatomski ugljik) i CN (cijanogen). Pod utjecajem UV zračenja Sunca, te molekule se pobude i joniziraju, i tada emituju karakterističnu zelenu svjetlost – posebno C₂. Spektralne linije C₂ daju intenzivan zelenkast sjaj u području talasne dužine reda 500–550 nm, što se najviše primjećuje u komi, odmah oko jezgre, gdje je koncentracija plinova i najveća. Ta zelena svjetlost brzo nestaje jer se molekule C₂ razgrađuju na Sunčevom svjetlu dok ih Sunčev vjetar nosi sve dalje od jezgre. Zato rep komete obično izgleda plavičasto (jonski rep) ili zlatno-ružičasto (prašinski rep), ali ne zeleno – ta boja je rezervisana samo za komu, najgušći dio oko jezgre"
+  "desc": ""
  },
  {
   "id": 384,
   "url": "https://night-breaker.com/wp-content/uploads/2020/08/img_4632.jpg",
-  "title": "Hvatanje komete na Mojmilu",
+  "title": "Hvatanje komete Atlas na Mojmilu",
   "category": "Komete",
   "date": "2020-08",
-  "desc": "Kometa C/2025 A6 (Lemmon)"
+  "desc": ""
  },
  {
   "id": 385,
@@ -2182,5 +2182,13 @@
   "category": "Sunce",
   "date": "2015-11",
   "desc": "Lokacija: Igman, 21.05.2016.\nOprema: 120/900 APO refraktor, NEQ6 postolje, Canon 650D kamera\nTehnika: Snimanje sa bijelim solarnim filterom (Baader Astrosolar)\nObrada: Photoshop"
+ },
+ {
+  "id": 434,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/09/sunce-u-h-alfa.jpg",
+  "title": "Sunce u H-alfa svjetlu",
+  "category": "Sunce",
+  "date": "",
+  "desc": "Sunce u H-alfa svjetlu snimljeno spektroheliografom MLAstro SHG 700 na refraktoru TS 50/330 mm s kamerom ASI120MM, koji umjesto direktnog snimanja rekonstruiše sliku iz spektra skenirajući disk kroz uski prorez, liniju po liniju. Obrada u JSol'Ex (rekonstrukcija iz SER snimka) i Photoshopu (inverzija i kolorizacija). Na slici se vide filamenti, aktivne regije i protuberance na rubu diska."
  }
 ]
