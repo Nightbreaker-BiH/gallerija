@@ -2190,5 +2190,21 @@
   "category": "Sunce",
   "date": "",
   "desc": "Sunce u H-alfa svjetlu snimljeno spektroheliografom MLAstro SHG 700 na refraktoru TS 50/330 mm s kamerom ASI120MM, koji umjesto direktnog snimanja rekonstruiše sliku iz spektra skenirajući disk kroz uski prorez, liniju po liniju. Obrada u JSol'Ex (rekonstrukcija iz SER snimka) i Photoshopu (inverzija i kolorizacija). Na slici se vide filamenti, aktivne regije i protuberance na rubu diska."
+ },
+ {
+  "id": 434,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/09/sunce-u-h-alfa.jpg",
+  "title": "Sunce u H-alfa svjetlu",
+  "category": "Sunce",
+  "date": "",
+  "desc": "Sunce u H-alfa svjetlu snimljeno spektroheliografom MLAstro SHG 700 na refraktoru TS 50/330 mm s kamerom ASI120MM, koji umjesto direktnog snimanja rekonstruiše sliku iz spektra skenirajući disk kroz uski prorez, liniju po liniju. Obrada u JSol'Ex (rekonstrukcija iz SER snimka) i Photoshopu (inverzija i kolorizacija). Na slici se vide filamenti, aktivne regije i protuberance na rubu diska."
+ },
+ {
+  "id": 435,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/09/m16-stubovi-stvaranja.jpg",
+  "title": "M16 - stubovi stvaranja",
+  "category": "Deep-sky",
+  "date": "",
+  "desc": "NGC 6611, poznatija kao Maglina Orao (M16), jedno je od najpoznatijih područja stvaranja novih zvijezda u našoj galaksiji. U njenom srcu nalaze se ogromni stupovi plina i prašine – čuveni „Stupovi stvaranja“, strukture duge nekoliko svjetlosnih godina u kojima se i danas rađaju nove zvijezde.\n\nOva verzija M16 nije snimljena iz neke udaljene opservatorije ili sa tamne lokacije, već sa balkona na Dobrinji.\n\nZa snimanje sam koristio svoju standardnu postavu:\n\n🔭 Sky-Watcher Evostar 120 mm APO\n📷 Atik 383L+ mono\n⚙️ NEQ6\n🔬 uskopojasni Hα, SII i OIII filteri\n\nUkupno je prikupljeno 33 sati signala:\n\n🔴 Hα – 10 h\n🟢 SII – 10 h\n🔵 OIII – 13 h\n\nKombinacijom ovih uskopojasnih kanala dobija se SHO (Hubble) paleta, koja ne prikazuje boje onako kako bi ih ljudsko oko vidjelo, već različite valne dužine svjetlosti prevodi u RGB boje. Na taj način postaju vidljive strukture jonizovanog plina i prašine koje bi u običnoj fotografiji ostale gotovo neprimjetne.\n\nObrada je rađena u PixInsightu, GraXpertu, BlurXTerminatoru, StarNet++ i Photoshopu.\n\n\nSnimci sa pojedinim filterima, registrovani i stakirani. Primjetna je rotacija kadra budući da dok sam ovo snimao još nisam imao ZWO rotator.\nPosebno mi je drago što je ovaj rezultat nastao iz Sarajeva, sa Dobrinje, pod uslovima daleko od idealnih za astrofotografiju. Nekad zaista ne treba biti pod tamnim nebom da bi se stiglo do veoma udaljenih mjesta.\n\nInače, M16 se nalazi oko 6.000-7.000 svjetlosnih godina od nas. Svjetlost koju gledamo na ovoj fotografiji krenula je prema Zemlji hiljadama godina prije nego što su izgrađene prve velike civilizacije na našoj planeti.\n\nA sada je snimamo sa balkona."
  }
 ]
