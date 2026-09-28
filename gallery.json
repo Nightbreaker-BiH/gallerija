@@ -2206,5 +2206,21 @@
   "category": "Deep-sky",
   "date": "",
   "desc": "Ovu fotografiju snimao sam kroz Hα i OIII uskopojasne filtere, sa ukupno približno 20 sati integracije (oko 10h po filteru).\n\nOprema koju sam koristio:\nSky-Watcher 120 mm ED APO refraktor\nAtik 383L+ Mono CCD\nHα filter\nOIII filter\nekvatorijalna montaža (SW NEQ6)\nautoguiding (sa ASi 120-MM na finder teleskopu)\nZWO CAA i EFW\nobrada u DeepSkyStacker, Siril i Photoshop.\nKorištena HOO kolor paleta sa mapiranjem pojedinih snimaka na RGB kanale konačne slike.\nHelix je relativno velika i veoma slaba planetarna maglina, pa upravo ovakvi objekti pokazuju koliko je važna duga integracija (ekspozicija). Pojedinačna ekspozicija može izgledati prilično skromno. Signal magline je slab, a detalji se lako izgube u šumu i pozadini neba. Ovo je upravo i meni bio najveći problem jer je Sarajevo ovih dana, dok sam snimao, bilo puno dima, prašine u zraku, vlage i standardnog svjetlosnog onečišćenja. Ipak, kada se desetine sati podataka spoje u jednu sliku, počinju se pojavljivati strukture koje nisu bile vidljive u pojedinačnim snimcima, čak i kada se snima sa gradskog balkona.\nViše detalja na: https://night-breaker.com/2026/09/08/maglina-helix-oko-koje-gleda-kroz-vrijeme/"
+ },
+ {
+  "id": 436,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/09/helix-maglina.jpg?w=1024",
+  "title": "Maglina Helix",
+  "category": "Deep-sky",
+  "date": "",
+  "desc": "Ovu fotografiju snimao sam kroz Hα i OIII uskopojasne filtere, sa ukupno približno 20 sati integracije (oko 10h po filteru).\n\nOprema koju sam koristio:\nSky-Watcher 120 mm ED APO refraktor\nAtik 383L+ Mono CCD\nHα filter\nOIII filter\nekvatorijalna montaža (SW NEQ6)\nautoguiding (sa ASi 120-MM na finder teleskopu)\nZWO CAA i EFW\nobrada u DeepSkyStacker, Siril i Photoshop.\nKorištena HOO kolor paleta sa mapiranjem pojedinih snimaka na RGB kanale konačne slike.\nHelix je relativno velika i veoma slaba planetarna maglina, pa upravo ovakvi objekti pokazuju koliko je važna duga integracija (ekspozicija). Pojedinačna ekspozicija može izgledati prilično skromno. Signal magline je slab, a detalji se lako izgube u šumu i pozadini neba. Ovo je upravo i meni bio najveći problem jer je Sarajevo ovih dana, dok sam snimao, bilo puno dima, prašine u zraku, vlage i standardnog svjetlosnog onečišćenja. Ipak, kada se desetine sati podataka spoje u jednu sliku, počinju se pojavljivati strukture koje nisu bile vidljive u pojedinačnim snimcima, čak i kada se snima sa gradskog balkona.\nViše detalja na: https://night-breaker.com/2026/09/08/maglina-helix-oko-koje-gleda-kroz-vrijeme/"
+ },
+ {
+  "id": 437,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/09/saturn-jpeg.jpg",
+  "title": "Saturn u monohromatskoj verziji",
+  "category": "Planeti",
+  "date": "",
+  "desc": "Za snimanje sam koristio sam Celestron SCT 8\" (f/10) na SW NEQ6 montaži. Da bih izvukao maksimalnu žižnu daljinu i detalje, koristio sam GSO 2.5x Barlow u kombinaciji sa MLS 678M monohromatskom kamerom (senzor Sony IMX678) i Baader IR/UV Cut filterom (smanjuje zamućenje i gubitak oštrine planeta uzrokovan hromatskom aberacijom u nestandardnim talasnim dužinama (IR/UV)).\n\nSnimanje je rađeno u SharpCap-u, izvučeno je iz 1000 frejmova oko 20% najboljih, uz odabrani ROI (Region of Interest) radi većeg FPS-a. Nakon toga standardna obrada:\n\nAutoStakkert! za selekciju i slaganje najboljih frejmova,\nSolaris za izoštravanje finih detalja na prstenovima i površini,\nPhotoshop za završnu obradu.\nZanimljivost o Saturnu: Jeste li znali da su Saturnovi prstenovi nevjerovatno tanki? Iako se protežu na više od 280 000 kilometara u širinu, njihova prosječna debljina je svega 10 do 30 metara! Da napravite model Saturna razmjere fudbalskog terena, njegovi prstenovi bi bili tanji od lista papira. Pored toga, prstenovi polako nestaju pod uticajem gravitacije i magnetnog polja jer planeta doslovno \"upija\" svoje prstenove u procesu koji se zove kiša prstenova (eng. ring rain)."
  }
 ]
