@@ -2246,5 +2246,37 @@
   "category": "Planeti",
   "date": "",
   "desc": "Saturn u opoziciji – 4. oktobar 2026.\nSinoć je Saturn bio u opoziciji sa Suncem, što je jedan od najboljih perioda u godini za njegovo posmatranje i fotografisanje. U opoziciji se Zemlja nalazi između Sunca i Saturna, pa je Saturn bliže Zemlji, sjajniji i vidljiv praktično tokom cijele noći.\nOvaj snimak je napravljen sa:\n🔭 Celestron SCT 8\"\n📷 ZWO ASI678M\n🔍 2,5× Barlow\n🔴🟢🔵 RGB filteri\nZa svaki kanal snimljeno je 1000 frejmova, a za finalni stack odabrano je 20% najboljih, odnosno oko 200 frejmova po kanalu.\nObrada: AutoStakkert! → RegiStax → Photoshop.\nSeeing nije bio savršen, ali je Saturn ipak pokazao svoje prstenove, Cassinijevu pukotinu i određene detalje u atmosferi."
+ },
+ {
+  "id": 436,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/09/helix-maglina.jpg?w=1024",
+  "title": "Maglina Helix",
+  "category": "Deep-sky",
+  "date": "",
+  "desc": "Ovu fotografiju snimao sam kroz Hα i OIII uskopojasne filtere, sa ukupno približno 20 sati integracije (oko 10h po filteru).\n\nOprema koju sam koristio:\nSky-Watcher 120 mm ED APO refraktor\nAtik 383L+ Mono CCD\nHα filter\nOIII filter\nekvatorijalna montaža (SW NEQ6)\nautoguiding (sa ASi 120-MM na finder teleskopu)\nZWO CAA i EFW\nobrada u DeepSkyStacker, Siril i Photoshop.\nKorištena HOO kolor paleta sa mapiranjem pojedinih snimaka na RGB kanale konačne slike.\nHelix je relativno velika i veoma slaba planetarna maglina, pa upravo ovakvi objekti pokazuju koliko je važna duga integracija (ekspozicija). Pojedinačna ekspozicija može izgledati prilično skromno. Signal magline je slab, a detalji se lako izgube u šumu i pozadini neba. Ovo je upravo i meni bio najveći problem jer je Sarajevo ovih dana, dok sam snimao, bilo puno dima, prašine u zraku, vlage i standardnog svjetlosnog onečišćenja. Ipak, kada se desetine sati podataka spoje u jednu sliku, počinju se pojavljivati strukture koje nisu bile vidljive u pojedinačnim snimcima, čak i kada se snima sa gradskog balkona.\nViše detalja na: https://night-breaker.com/2026/09/08/maglina-helix-oko-koje-gleda-kroz-vrijeme/"
+ },
+ {
+  "id": 437,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/09/saturn-jpeg.jpg",
+  "title": "Saturn u monohromatskoj verziji",
+  "category": "Planeti",
+  "date": "",
+  "desc": "Za snimanje sam koristio sam Celestron SCT 8\" (f/10) na SW NEQ6 montaži. Da bih izvukao maksimalnu žižnu daljinu i detalje, koristio sam GSO 2.5x Barlow u kombinaciji sa MLS 678M monohromatskom kamerom (senzor Sony IMX678) i Baader IR/UV Cut filterom (smanjuje zamućenje i gubitak oštrine planeta uzrokovan hromatskom aberacijom u nestandardnim talasnim dužinama (IR/UV)).\n\nSnimanje je rađeno u SharpCap-u, izvučeno je iz 1000 frejmova oko 20% najboljih, uz odabrani ROI (Region of Interest) radi većeg FPS-a. Nakon toga standardna obrada:\n\nAutoStakkert! za selekciju i slaganje najboljih frejmova,\nSolaris za izoštravanje finih detalja na prstenovima i površini,\nPhotoshop za završnu obradu.\nZanimljivost o Saturnu: Jeste li znali da su Saturnovi prstenovi nevjerovatno tanki? Iako se protežu na više od 280 000 kilometara u širinu, njihova prosječna debljina je svega 10 do 30 metara! Da napravite model Saturna razmjere fudbalskog terena, njegovi prstenovi bi bili tanji od lista papira. Pored toga, prstenovi polako nestaju pod uticajem gravitacije i magnetnog polja jer planeta doslovno \"upija\" svoje prstenove u procesu koji se zove kiša prstenova (eng. ring rain)."
+ },
+ {
+  "id": 439,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/11/1.jpg?w=1440",
+  "title": "Sunca u H-alfa liniji",
+  "category": "Sunce",
+  "date": "",
+  "desc": "Šest skenova spektroheliografom MLAstro SHG 700, složenih consensus metodom u JSol’Exu, dalo je sliku cijelog Sunca u liniji H-alfa (656,28 nm). Na njoj su dug filament, aktivna oblast NOAA AR 14566 i niz protuberanci na rubu diska.\n\nLink: https://night-breaker.com/2026/11/10/sunce-u-liniji-h-alfa-shg-700-na-refraktoru-102-mm/ "
+ },
+ {
+  "id": 440,
+  "url": "https://night-breaker.com/wp-content/uploads/2026/11/neinvertovani-snimak.jpg?w=768",
+  "title": "Neinvertovani snimak Sunca sa SHG700",
+  "category": "Sunce",
+  "date": "",
+  "desc": "Snimak Sunca u centru Hα linije: hromosfera. Sjever je gore, istok lijevo. Bez inverzije, tamno znači da materijal upija Hα svjetlost, a svijetlo da je hromosfera tu toplija i gušća.\n\nLink: https://night-breaker.com/2026/11/10/sunce-u-liniji-h-alfa-shg-700-na-refraktoru-102-mm/"
  }
 ]
